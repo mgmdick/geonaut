@@ -1,0 +1,13 @@
+name: Geonaut
+title: Geonaut
+username:
+account: geonaut
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1957140
+bundleId: 2894469
+url: https://geonaut.shinyapps.io/Geonaut/
+when: 1584543680.41889
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: generate_resource.R|seismic_line.R
