@@ -1,6 +1,7 @@
 scifi_palette <- c("turquoise4","darkorange", "paleturquoise",  "tan")
 
 
+
 perlin_noise <- function( 
   n = 5,   m = 7,    # Size of the grid for the vector field
   N = 50, M = 50, seed = NA # Dimension of the image

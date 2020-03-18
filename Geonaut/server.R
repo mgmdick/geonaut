@@ -6,6 +6,8 @@ x <- seq(0, 5000, 50)
 y <- seq(0, 5000, 50)
 
 
+
+
 ob_cost <- 10
 co_rd <- 1.4
 co_price <- 100
